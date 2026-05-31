@@ -48,9 +48,6 @@ Built-in shortcuts for common queries:
 
 Bot responses appear gradually using a typewriter effect for a natural conversational experience.
 
-### Auto Scrolling
-
-Automatically scrolls to the latest message in the conversation.
 
 ### Welcome Screen
 
@@ -97,7 +94,7 @@ src/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/agroforestry-advisor-chatbot.git
+git clone https://github.com/saurabh121212/agroforestry-chatbot
 ```
 
 ### 2. Navigate to Project Folder
@@ -314,34 +311,6 @@ rather than serving as a production-grade agricultural advisory system.
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots inside a folder:
-
-```text
-screenshots/
-├── home.png
-├── chatbot.png
-├── recommendations.png
-```
-
-Example:
-
-```markdown
-![Home Screen](screenshots/home.png)
-```
-
----
-
 ## 👩‍💻 Author
 
 Saurabh Saini
-
-
-## ✅ Project Status
-
-- ✅ Gemini AI Integrated
-- ✅ Responsive Design
-- ✅ Typing Animation
-- ✅ Agroforestry Domain Restriction
-- ✅ Quick Prompt Buttons
